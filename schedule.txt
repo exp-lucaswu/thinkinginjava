@@ -5,7 +5,7 @@ Ch4 按制执行流程 Louis
 Ch5 初始化与清理 Lucas
 Ch6 访问权限控制 Lucas
 Ch7 复用类 Lucas
-Ch8 Lucas
+Ch8 多态 Lucas
 Ch9 Leo
 Ch10 Louis
 Ch11 Ben
